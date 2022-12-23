@@ -14,7 +14,7 @@
 - [React-app](https://github.com/Sachinbisht27/React_App) -Simple App with front-end on react and backend on [Go-Lang](https://github.com/LavishRawat/go_lang).
 
 
-[![Rawat's github activity graph](https://activity-graph.herokuapp.com/graph?username=LavishRawat&theme=xcode)](https://git.io/LavishRawat)  
+[![Lavish's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=LavishRawat&theme=react-dark)](https://github.com/LavishRawat/github-readme-activity-graph)  
 
 <div>
     <a href="https://github.com/ryo-ma/github-profile-trophy">
