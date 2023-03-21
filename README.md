@@ -5,8 +5,6 @@
 - I’m currently learning React, Java(Spring Boot).
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=LavishRawat&label=Profile%20views&color=0e75b6&style=flat" alt="LavishRawat" /> </p>
 
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
-
 ### :computer: Work
 
 - [Employee Portal](https://github.com/ColoredCow/portal) - A hub-and-spoke platform for organization operations.
@@ -27,9 +25,6 @@
 ![powershell](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![windows%20terminal](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LavishRawat&show_icons=true&locale=en&layout=compact" alt="ThorezNS" /></p>
 
 
 <!-- ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=LavishRawat&theme=blue-green) -->
