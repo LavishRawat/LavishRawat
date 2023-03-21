@@ -5,6 +5,8 @@
 - I’m currently learning React, Java(Spring Boot).
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=LavishRawat&label=Profile%20views&color=0e75b6&style=flat" alt="LavishRawat" /> </p>
 
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
+
 ### :computer: Work
 
 - [Employee Portal](https://github.com/ColoredCow/portal) - A hub-and-spoke platform for organization operations.
