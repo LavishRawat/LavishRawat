@@ -2,7 +2,7 @@
 # About Me
 - Hi, I’m @LavishRawat
 - I’m interested in Web Development
-- I’m currently learning laravel,React.
+- I’m currently learning React, Java(Spring Boot).
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=LavishRawat&label=Profile%20views&color=0e75b6&style=flat" alt="LavishRawat" /> </p>
 
 ### :computer: Work
