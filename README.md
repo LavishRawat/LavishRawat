@@ -9,13 +9,14 @@
 
 - [Employee Portal](https://github.com/ColoredCow/portal) - A hub-and-spoke platform for organization operations.
 
+[![Lavish's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=LavishRawat&theme=react-dark)](https://github.com/LavishRawat/github-readme-activity-graph) 
+
 <div align="center">
 	<a href="https://github.com/ryo-ma/github-profile-trophy">
 		<img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=LavishRawat&row=4&theme=tokyonight&no-frame=true"/>
 	</a>
 </div>
 
-[![Lavish's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=LavishRawat&theme=react-dark)](https://github.com/LavishRawat/github-readme-activity-graph)  
   
 # 💻Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![SpringBoot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)   ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
