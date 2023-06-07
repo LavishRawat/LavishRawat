@@ -11,6 +11,8 @@
 
 [![Lavish's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=LavishRawat&theme=react-dark)](https://github.com/LavishRawat/github-readme-activity-graph) 
 
+[![Lavish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LavishRawat&theme=github-compact)](https://github.com/LavishRawat/github-readme-activity-graph)
+
 <div align="center">
 	<a href="https://github.com/ryo-ma/github-profile-trophy">
 		<img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=LavishRawat&row=4&theme=tokyonight&no-frame=true"/>
