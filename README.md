@@ -9,8 +9,6 @@
 
 - [Employee Portal](https://github.com/ColoredCow/portal) - A hub-and-spoke platform for organization operations.
 
-[![Lavish's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=LavishRawat&theme=react-dark)](https://github.com/LavishRawat/github-readme-activity-graph) 
-
 [![Lavish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LavishRawat&theme=github-compact)](https://github.com/LavishRawat/github-readme-activity-graph)
 
 <div align="center">
