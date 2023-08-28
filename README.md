@@ -37,6 +37,9 @@
 # 😂 Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
+![](https://raw.githubusercontent.com/MayMeow/MayMeow/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/MayMeow/MayMeow/output/github-contribution-grid-snake.svggh-light-mode-only)
+
 # 📊GitHub Stats :
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=LavishRawat&show_icons=true&theme=tokyonight" />
